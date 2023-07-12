@@ -23,11 +23,9 @@
             "id": "d540b0b337abba4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Bank and Financial Institutions.md",
-                "mode": "source",
-                "source": false
+                "file": "logo.png"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bank and Financial Institutions.md",
+                "file": "logo.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bank and Financial Institutions.md",
+                "file": "logo.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bank and Financial Institutions.md"
+                "file": "logo.png"
               }
             }
           }
@@ -162,8 +160,8 @@
   "active": "d540b0b337abba4e",
   "lastOpenFiles": [
     "markdown-notebooks.md",
-    "Bank and Financial Institutions.md",
     "markdown.md",
+    "Bank and Financial Institutions.md",
     "logo.png",
     "intro.md"
   ]
